@@ -6,7 +6,7 @@ My name is Mr Moore and I hate kids but I am being force to tech them.
 Here are the class I teach.
 
 1. Computer Science Foundations
-2. Web Design Foundatio
+2. Web Design Foundations
 3. Cybersecurity I
 4. Website Development
 5. Cybersecurity II
