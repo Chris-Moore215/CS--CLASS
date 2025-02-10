@@ -17,7 +17,7 @@ Here are the class I teach.
 ---
 My name is **Chris Moore**
 
-My email is ***moorec@unicoischools.com***
+My email is *moorec@unicoischools.com*
 
 We meet at **CTE Room 15 (Welding Building)**
 
